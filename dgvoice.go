@@ -19,7 +19,7 @@ import (
 	"sync"
 
 	"github.com/bwmarrin/discordgo"
-	"layeh.com/gopus"
+	"github.com/FlameInTheDark/gopus"
 )
 
 // NOTE: This API is not final and these are likely to change.
